@@ -27,3 +27,4 @@ console.log(result1, result2, result3);
 var scientist = {firstName: "Will", experience: 12};
 const {firstName,experience} = scientist;
 console.log(firstName, experience);
+
